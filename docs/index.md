@@ -75,6 +75,11 @@ This page is still in BETA, so some sections may change, move or completely disa
   </div>
 
 ---
+
+## Get Started with Windows 10 apps 
+ 
+Build apps that work on all Windows 10 devices, or enhance your existing apps with new and updated features.  
+
 <ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
                             <li>
                                 <a href="">
@@ -83,18 +88,14 @@ This page is still in BETA, so some sections may change, move or completely disa
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                        <img src="<img src="/media/common/i_overview.svg" alt="Overview Icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3 class="x-hidden-focus">Lorem ipsum dolor sit amet</h3>
-                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
-                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
-                                                  <p>
-                                                    	• <a href="https://developer.microsoft.com/windows/downloads/virtual-machines">Try out a VM link test</a>
-                                                  </p>
+                                                    <h3 class="x-hidden-focus">Learn about Windows 10 Apps</h3>
+                                                    <p>Windows 10 and the Universal Windows Platform let you build apps that work and look great across all Windows device types, or update existing apps with modern features.</p>
                                                   <ul>
-                                                    <li><a href="https://developer.microsoft.com/windows/downloads/virtual-machines">Try out a VM link test</a></li>
+                                                    <li><a href="https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp">What's a UWP app?</a></li>
                                                   </ul>
                                                 </div>
                                             </div>
