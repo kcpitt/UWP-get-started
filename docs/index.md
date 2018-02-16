@@ -75,6 +75,96 @@ This page is still in BETA, so some sections may change, move or completely disa
   </div>
 
 ---
+<ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
+                            <li class="fullSpan">
+                                <div class="container intro">
+                                    <p>Panel intro: n sed lacus sit amet ipsum aliquam faucibus. Phasellus varius sed erat eu
+                                        fringilla. Pellentesque ante leo, blandit quis nunc ornare, egestas aliquet augue.
+                                        Vivamus bibendum metus a lorem mattis lacinia et ut lacus.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3 class="x-hidden-focus">Lorem ipsum dolor sit amet</h3>
+                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
+                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Lorem ipsum dolor sit amet</h3>
+                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
+                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Lorem ipsum dolor sit amet</h3>
+                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
+                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Lorem ipsum dolor sit amet</h3>
+                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
+                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+---
 
 <ul class="panelContent cardsFTitle">
     <li>
