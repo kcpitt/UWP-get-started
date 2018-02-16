@@ -90,9 +90,9 @@ This page is still in BETA, so some sections may change, move or completely disa
                                                     <h3 class="x-hidden-focus">Lorem ipsum dolor sit amet</h3>
                                                     <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
                                                         enim. Nullam ac tellus a enim rutrum aliquet.</p>
-                                                  <li>
-                                                    <a href="https://developer.microsoft.com/windows/downloads/virtual-machines">Try out a VM link test</a>
-                                                  </li>
+                                                  <p>
+                                                    	• <a href="https://developer.microsoft.com/windows/downloads/virtual-machines">Try out a VM link test</a>
+                                                  </p>
                                                 </div>
                                             </div>
                                         </div>
