@@ -14,6 +14,67 @@ keywords: Get-started UWP, windows app development, make a windows app
 Getting started with Universal Windows Platform (UWP) app development.
 
 This page is still in BETA, so some sections may change, move or completely disappear. 
+---
+  <div class="container">
+      <ul class="cardsY panelContent featuredContent">
+          <li>
+              <a href="https://developer.microsoft.com/windows/downloads/virtual-machines">
+                  <div class="cardSize">
+                      <div class="cardPadding">
+                          <div class="card">
+                              <div class="cardImageOuter">
+                                  <div class="cardImage">
+                                      <img data-hoverimage="/media/hubs/windows/win_try-windows.svg" src="/media/hubs/windows/win_try-windows.png" alt="" />
+                                  </div>
+                              </div>
+                              <div class="cardText">
+                                  <h3>Try Windows 10 on virtual machines</h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </a>
+          </li>
+          <li>
+              <a href="https://insider.windows.com/">
+                  <div class="cardSize">
+                      <div class="cardPadding">
+                          <div class="card">
+                              <div class="cardImageOuter">
+                                  <div class="cardImage">
+                                      <img data-hoverimage="/media/hubs/windows/win_insider.svg" src="/media/hubs/windows/win_insider.png" alt="" />
+                                  </div>
+                              </div>
+                              <div class="cardText">
+                                  <h3>Join the Insider Program</h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </a>
+          </li>
+          <li>
+              <a href="https://mva.microsoft.com/">
+                  <div class="cardSize">
+                      <div class="cardPadding">
+                          <div class="card">
+                              <div class="cardImageOuter">
+                                  <div class="cardImage">
+                                      <img data-hoverimage="/media/hubs/windows/win_academy.svg" src="/media/hubs/windows/win_academy.png" alt="" />
+                                  </div>
+                              </div>
+                              <div class="cardText">
+                                  <h3>Explore Microsoft Virtual Academy</h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </a>
+          </li>
+      </ul>
+  </div>
+
+---
 
 <ul class="panelContent cardsFTitle">
     <li>
