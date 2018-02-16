@@ -93,6 +93,9 @@ This page is still in BETA, so some sections may change, move or completely disa
                                                   <p>
                                                     	• <a href="https://developer.microsoft.com/windows/downloads/virtual-machines">Try out a VM link test</a>
                                                   </p>
+                                                  <ul>
+                                                    <li><a href="https://developer.microsoft.com/windows/downloads/virtual-machines">Try out a VM link test</a></li>
+                                                  </ul>
                                                 </div>
                                             </div>
                                         </div>
