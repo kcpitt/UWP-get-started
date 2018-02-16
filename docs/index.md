@@ -1,1 +1,184 @@
-# Welcome to UWP-get-started!
+---
+layout: LandingPage
+description: Gettting started developering UWP apps.
+title: Get-started with UWP
+author: mattwojo
+ms.author: mattwoj
+ms.date: 02/16/2018
+ms.prod: windows
+ms.topic: article
+keywords: Get-started UWP, windows app development, make a windows app
+---
+
+# Get started with UWP 
+Getting started with Universal Windows Platform (UWP) app development.
+
+This page is still in BETA, so some sections may change, move or completely disappear. 
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="./get-started.md">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_get-started.svg" alt="Get Started Icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Get started</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="./create-content.md">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_code-edit.svg" alt="Code Edit Icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Placeholder</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="./package-content.md">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_test.svg" alt="Package Icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Placeholder</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="./test-content.md">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_test.svg" alt="Test Icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Placeholder</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="./submit-content.md">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_deploy.svg" alt="Submit Icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Placeholder</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://..">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_multi-connect.svg" alt="Multi connect icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Learn more about ARM on Windows 10</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://..">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_benefits.svg" alt="Partner Signup icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Placeholder</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+  </ul>
+
+---
+
+<h2>Reference</h2>
+
+<ul class="panelContent cardsW">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Resources</h3>
+                        <p><a href="https://../">REference Placeholder</a></p>
+                        <p><a href="https://../">Placeholder</a></p>
+                        <p><a href="http://..">FAQs</a></p>
+                        <p><a href="https://../">Placeholder</a></p>
+                        <p><a href="http://..">Placeholder</a></p>
+                        <p><a href="https://../">Placeholder</a></p>
+                        <p><a href="https://..">placeholder</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Support</h3>
+                        <p><a href="https://..">Help Placeholder</a></p>
+                        <p><a href="https://..">Support and Troubleshooting Placeholder</a></p>
+                        <p><a href="http://..">Placeholder Forum</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
