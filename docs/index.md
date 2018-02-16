@@ -76,13 +76,6 @@ This page is still in BETA, so some sections may change, move or completely disa
 
 ---
 <ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
-                            <li class="fullSpan">
-                                <div class="container intro">
-                                    <p>Panel intro: n sed lacus sit amet ipsum aliquam faucibus. Phasellus varius sed erat eu
-                                        fringilla. Pellentesque ante leo, blandit quis nunc ornare, egestas aliquet augue.
-                                        Vivamus bibendum metus a lorem mattis lacinia et ut lacus.</p>
-                                </div>
-                            </li>
                             <li>
                                 <a href="">
                                     <div class="cardSize">
