@@ -230,7 +230,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://static.licdn.com/sc/h/8m6mpr88bpcud5kvmrorj0fl2" alt="LinkedIn Learning Logo" />
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/120px-Linkedin.svg.png" alt="LinkedIn Learning Logo" />
                         </div>
                     </div>
                     <div class="cardText">
