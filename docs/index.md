@@ -136,44 +136,87 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                                     </div>
                             </li>
                             <li>
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage">
-                                                        <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Tutorials</h3>
-                                                    <p>Looking for a guided learning experience? These tutorials will help.</p>
-                                                  <ul>
-                                                    <li><a href="https://..">UI Basics</a></li>
-                                                    <li><a href="https://..">Data binding</a></li>
-                                                    <li><a href="https://..">Custom styles</a></li>
-                                                  </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>Tutorials</h3>
+                                              <p>Looking for a guided learning experience? These tutorials will help.</p>
+                                            <ul>
+                                              <li><a href="https://..">UI Basics</a></li>
+                                              <li><a href="https://..">Data binding</a></li>
+                                              <li><a href="https://..">Custom styles</a></li>
+                                            </ul>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                            </li>
+                            <li>
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="/media/common/i_code-samples.svg" alt="Samples Icon" />
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>Samples</h3>
+                                              <p>Get firsthand experience with the Windows 10 platform and see APIs in action.</p>
+                                            <ul>
+                                              <li><a href="https://..">Using UWP app samples</a></li>
+                                              <li><a href="https://..">Customer Orders Database</a></li>
+                                              <li><a href="https://..">Quiz Game (Project Rome)</a></li>
+                                              <li><a href="https://..">Windows code samples portal</a></li>
+                                            </ul>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                            </li>
+                            <li>
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="/media/common/i_whats-new.svg" alt="Whats New Icon" />
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>What's new</h3>
+                                              <p>Expand your horizons and explore the latest additions to Windows 10.</p>
+                                            <ul>
+                                              <li><a href="https://..">What's cool in the latest version of Windows 10</a></li>
+                                              <li><a href="https://..">What's new in Windows 10 for Developers</a></li>
+                                            </ul>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
                             </li>
                         </ul>
 ---
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="./get-started.md">
+        <a href="..">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_get-started.svg" alt="Get Started Icon" />
+                            <img src="/media/common/i_advanced.svg" alt="Learning Icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Get started</h3>
+                        <h3>Microsoft Virtual Academy</h3>
                     </div>
                 </div>
             </div>
@@ -181,17 +224,17 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </a>
     </li>
     <li>
-        <a href="./create-content.md">
+        <a href="..">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_code-edit.svg" alt="Code Edit Icon" />
+                            <img src="https://static.licdn.com/sc/h/8m6mpr88bpcud5kvmrorj0fl2" alt="LinkedIn Learning Logo" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Placeholder</h3>
+                        <h3>LinkedIn Learning</h3>
                     </div>
                 </div>
             </div>
@@ -199,17 +242,17 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </a>
     </li>
     <li>
-        <a href="./package-content.md">
+        <a href="https://docs.microsoft.com/dotnet/csharp/index">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_test.svg" alt="Package Icon" />
+                            <img src="/media/logos/logo_Csharp.svg" alt="C# logo" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Placeholder</h3>
+                        <h3>C# Guide</h3>
                     </div>
                 </div>
             </div>
