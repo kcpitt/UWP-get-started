@@ -9,12 +9,6 @@ ms.prod: windows
 ms.topic: article
 keywords: Get-started UWP, windows app development, make a windows app
 ---
-
-# Get started with UWP 
-Getting started with Universal Windows Platform (UWP) app development.
-
-This page is still in BETA, so some sections may change, move or completely disappear. 
----
   <div class="container">
       <ul class="cardsY panelContent featuredContent">
           <li>
