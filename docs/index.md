@@ -79,16 +79,15 @@ This page is still in BETA, so some sections may change, move or completely disa
 ## Get Started with Windows 10 apps 
  
 Build apps that work on all Windows 10 devices, or enhance your existing apps with new and updated features.  
-
+<br>
 <ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
                             <li>
-                                <a href="">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="<img src="/media/common/i_overview.svg" alt="Overview Icon" />
+                                                        <img src="/media/common/i_overview.svg" alt="Overview Icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -101,7 +100,6 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                                             </div>
                                         </div>
                                     </div>
-                                </a>
                             </li>
                             <li>
                                 <a href="">
