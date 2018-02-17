@@ -96,59 +96,62 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                                     </div>
                             </li>
                             <li>
-                                <a href="">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                        <img src="/media/common/i_download-install.svg" alt="Download Icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Lorem ipsum dolor sit amet</h3>
-                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
-                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
+                                                    <h3>Get set up</h3>
+                                                    <p>Visual Studio Community and the Windows 10 SDK give you everything you need to build great apps – and they’re free!</p>
+                                                  <ul>
+                                                    <li><a href="https://developer.microsoft.com/windows/downloads">Download the tools and SDK</a></li>
+                                                  </ul>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
                             </li>
                             <li>
-                                <a href="">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                        <img src="/media/common/i_code-edit.svg" alt="Code Icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Lorem ipsum dolor sit amet</h3>
-                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
-                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
+                                                    <h3>Start coding</h3>
+                                                    <p>Whether you’re an experienced dev or just building your first app, get hands-on experience with the Windows 10 platform and docs.</p>
+                                                  <ul>
+                                                    <li><a href="https://..">Create apps for Windows</a></li>
+                                                  </ul>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
                             </li>
                             <li>
-                                <a href="">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/virtualmachine.svg" alt="" data-linktype="external">
+                                                        <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Lorem ipsum dolor sit amet</h3>
-                                                    <p>Mauris ultricies mi sapien, vel pulvinar arcu lacinia a. Proin quis ligula
-                                                        enim. Nullam ac tellus a enim rutrum aliquet.</p>
+                                                    <h3>Tutorials</h3>
+                                                    <p>Looking for a guided learning experience? These tutorials will help.</p>
+                                                  <ul>
+                                                    <li><a href="https://..">UI Basics</a></li>
+                                                    <li><a href="https://..">Data binding</a></li>
+                                                    <li><a href="https://..">Custom styles</a></li>
+                                                  </ul>
                                                 </div>
                                             </div>
                                         </div>
