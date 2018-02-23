@@ -203,10 +203,9 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                             </li>
                         </ul>
 ---
-
+## New to development?
 <ul class="panelContent cardsFTitle">
     <li>
-        <h3>New to development?</h3>
         <a href="https://mva.microsoft.com/training-topics/c-app-development">
         <div class="cardSize">
             <div class="cardPadding">
@@ -242,7 +241,11 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </div>
         </a>
     </li>
-    <li>
+  </ul>
+---
+## Explore related docs
+  <ul>
+   <li>
         <a href="https://docs.microsoft.com/dotnet/csharp/index">
         <div class="cardSize">
             <div class="cardPadding">
@@ -261,17 +264,17 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </a>
     </li>
     <li>
-        <a href="./test-content.md">
+        <a href="//docs.microsoft.com/visualstudio/ide/">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_test.svg" alt="Test Icon" />
+                            <img src="/media/logos/logo_visual-studio.svg" alt="Visual Studio Logo" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Placeholder</h3>
+                        <h3>Visual Studio</h3>
                     </div>
                 </div>
             </div>
@@ -333,7 +336,6 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </a>
     </li>
   </ul>
-
 ---
 
 <h2>Reference</h2>
