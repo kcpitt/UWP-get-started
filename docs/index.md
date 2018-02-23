@@ -206,13 +206,14 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="..">
+        <h3>New to development?</h3>
+        <a href="https://mva.microsoft.com/training-topics/c-app-development">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_advanced.svg" alt="Learning Icon" />
+                            <img src="/media/hubs/windows/win_academy.svg" alt="Microsoft Virtual Academy Logo" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -224,7 +225,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </a>
     </li>
     <li>
-        <a href="..">
+        <a href="https://www.linkedin.com/learning/learning-universal-windows-app-development/welcome">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
