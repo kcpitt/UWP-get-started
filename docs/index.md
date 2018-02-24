@@ -286,17 +286,17 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
 <h2> Developer Tools</h2>
   <ul>
     <li>
-        <a href="./submit-content.md">
+        <a href="//docs.microsoft.com/en-us/windows/wsl/install-win10">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_deploy.svg" alt="Submit Icon" />
+                            <img src="/media/logos/logo_linux-color.svg" alt="Linux Logo" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Placeholder</h3>
+                        <h3>Bash on Ubuntu on Windows (Windows Subsystem for Linux)</h3>
                     </div>
                 </div>
             </div>
