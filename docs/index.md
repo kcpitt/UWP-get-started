@@ -244,7 +244,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   </ul>
 
 <h2> Explore related docs</h2>
-  <ul>
+  <ul class="panelContent cardsFTitle">
    <li>
         <a href="https://docs.microsoft.com/dotnet/csharp/index">
         <div class="cardSize">
@@ -284,7 +284,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   </ul>
   
 <h2> Developer Tools</h2>
-  <ul>
+  <ul class="panelContent cardsFTitle">
     <li>
         <a href="//docs.microsoft.com/en-us/windows/wsl/install-win10">
         <div class="cardSize">
