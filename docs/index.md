@@ -243,8 +243,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
     </li>
   </ul>
 
-## Explore related docs
-
+<h2> Explore related docs</h2>
   <ul>
    <li>
         <a href="https://docs.microsoft.com/dotnet/csharp/index">
@@ -282,6 +281,10 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </div>
         </a>
     </li>
+  </ul>
+  
+<h2> Developer Tools</h2>
+  <ul>
     <li>
         <a href="./submit-content.md">
         <div class="cardSize">
