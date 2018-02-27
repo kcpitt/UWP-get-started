@@ -15,68 +15,68 @@ keywords: Get-started UWP, windows app development, make a windows app
 Build apps that work on all Windows 10 devices, or enhance your existing apps with new and updated features.  
 <br>
 <ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
-                            <li>
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage">
-                                                        <img src="/media/illustrations/biztalk-developer-documentation-1.svg" alt="Overview Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3 class="x-hidden-focus">Learn about Windows 10 Apps</h3>
-                                                    <p>Windows 10 and the Universal Windows Platform let you build apps that work and look great across all Windows device types, or update existing apps with modern features.</p>
-                                                  <ul>
-                                                    <li><a href="https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp">What's a UWP app?</a></li>
-                                                  </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </li>
-                            <li>
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage">
-                                                        <img src="/media/illustrations/biztalk-host-integration-install-configure.svg" alt="Setup Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Get set up</h3>
-                                                    <p>Visual Studio Community and the Windows 10 SDK give you everything you need to build great apps – and they’re free!</p>
-                                                  <ul>
-                                                    <li><a href="https://developer.microsoft.com/windows/downloads">Download the tools and SDK</a></li>
-                                                    <li><a href="//docs.microsoft.com/windows/uwp/get-started/get-set-up">Need a hand?</a></li>
-                                                  </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </li>
-                            <li>
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage">
-                                                        <img src="/media/illustrations/team-services-dev-ops-test.svg" alt="Code Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Start coding</h3>
-                                                    <p>Whether you’re an experienced dev or just building your first app, get hands-on experience with the Windows 10 platform and docs.</p>
-                                                  <ul>
-                                                    <li><a href="..">Create apps for Windows</a></li>
-                                                  </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </li>
-                        </ul>
+   <li>
+    <div class="cardSize">
+        <div class="cardPadding">
+            <div class="card">
+                <div class="cardImageOuter">
+                    <div class="cardImage bgdAccent1">
+                        <img data-scaleimage="/media/illustrations/biztalk-developer-documentation-1.svg" alt="Overview illustration" />
+                    </div>
+                </div>
+                <div class="cardText">
+                    <h3>Learn about Windows 10 Apps</h3>
+                    <p>Windows 10 and the Universal Windows Platform let you build apps that work and look great across all Windows device types, or update existing apps with modern features.</p>
+                    <ul>
+                      <li><a href="https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp">What's a UWP app?</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </li>
+  <li>
+    <div class="cardSize">
+        <div class="cardPadding">
+            <div class="card">
+                <div class="cardImageOuter">
+                    <div class="cardImage bgdAccent1">
+                        <img data-scaleimage="/media/illustrations/biztalk-host-integration-install-configure.svg" alt="Setup illustration" />
+                    </div>
+                </div>
+                <div class="cardText">
+                    <h3>Get set up</h3>
+                    <p>Visual Studio Community and the Windows 10 SDK give you everything you need to build great apps – and they’re free!</p>
+                   <ul>
+                    <li><a href="https://developer.microsoft.com/windows/downloads">Download the tools and SDK</a></li>
+                    <li><a href="//docs.microsoft.com/windows/uwp/get-started/get-set-up">Need a hand?</a></li>
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </li>
+  <li>
+    <div class="cardSize">
+        <div class="cardPadding">
+            <div class="card">
+                <div class="cardImageOuter">
+                    <div class="cardImage bgdAccent1">
+                        <img data-scaleimage="/media/illustrations/biztalk-host-integration-install-configure.svg" alt="Setup illustration" />
+                    </div>
+                </div>
+                <div class="cardText">
+                    <h3>Start coding</h3>
+                    <p>Whether you’re an experienced dev or just building your first app, get hands-on experience with the Windows 10 platform and docs.</p>
+                   <ul>
+                    <li><a href="..">Create apps for Windows</a></li>
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </li>
+</ul>  
 ---
                         <ul class="panelContent cardsFTitle">
                           <li>
@@ -346,4 +346,3 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
         </div>
     </li>
 </ul>
-
