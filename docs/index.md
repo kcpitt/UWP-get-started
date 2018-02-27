@@ -77,75 +77,75 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
     </div>
   </li>
 </ul>  
----
-                        <ul class="panelContent cardsFTitle">
-                          <li>
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Tutorials</h3>
-                                            <p>Looking for a guided learning experience? These tutorials will help.</p>
-                                          <ul>
-                                            <li><a href="https://..">UI Basics</a></li>
-                                            <li><a href="https://..">Data binding</a></li>
-                                            <li><a href="https://..">Custom styles</a></li>
-                                          </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="/media/common/i_code-samples.svg" alt="Samples Icon" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Samples</h3>
-                                            <p>Get firsthand experience with the Windows 10 platform and see APIs in action.</p>
-                                          <ul>
-                                            <li><a href="https://..">Using UWP app samples</a></li>
-                                            <li><a href="https://..">Customer Orders Database</a></li>
-                                            <li><a href="https://..">Quiz Game (Project Rome)</a></li>
-                                            <li><a href="https://..">Windows code samples portal</a></li>
-                                          </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="/media/common/i_whats-new.svg" alt="Whats New Icon" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>What's new</h3>
-                                            <p>Expand your horizons and explore the latest additions to Windows 10.</p>
-                                          <ul>
-                                            <li><a href="https://..">What's cool in the latest version of Windows 10</a></li>
-                                            <li><a href="https://..">What's new in Windows 10 for Developers</a></li>
-                                          </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                          </li>
-                        </ul>
+
+<ul class="panelContent cardsFTitle">
+  <li>
+    <div class="cardSize">
+        <div class="cardPadding">
+            <div class="card">
+                <div class="cardImageOuter">
+                    <div class="cardImage">
+                        <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
+                    </div>
+                </div>
+                <div class="cardText">
+                    <h3>Tutorials</h3>
+                    <p>Looking for a guided learning experience? These tutorials will help.</p>
+                  <ul>
+                    <li><a href="https://..">UI Basics</a></li>
+                    <li><a href="https://..">Data binding</a></li>
+                    <li><a href="https://..">Custom styles</a></li>
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </li>
+  <li>
+    <div class="cardSize">
+        <div class="cardPadding">
+            <div class="card">
+                <div class="cardImageOuter">
+                    <div class="cardImage">
+                        <img src="/media/common/i_code-samples.svg" alt="Samples Icon" />
+                    </div>
+                </div>
+                <div class="cardText">
+                    <h3>Samples</h3>
+                    <p>Get firsthand experience with the Windows 10 platform and see APIs in action.</p>
+                  <ul>
+                    <li><a href="https://..">Using UWP app samples</a></li>
+                    <li><a href="https://..">Customer Orders Database</a></li>
+                    <li><a href="https://..">Quiz Game (Project Rome)</a></li>
+                    <li><a href="https://..">Windows code samples portal</a></li>
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </li>
+  <li>
+    <div class="cardSize">
+        <div class="cardPadding">
+            <div class="card">
+                <div class="cardImageOuter">
+                    <div class="cardImage">
+                        <img src="/media/common/i_whats-new.svg" alt="Whats New Icon" />
+                    </div>
+                </div>
+                <div class="cardText">
+                    <h3>What's new</h3>
+                    <p>Expand your horizons and explore the latest additions to Windows 10.</p>
+                  <ul>
+                    <li><a href="https://..">What's cool in the latest version of Windows 10</a></li>
+                    <li><a href="https://..">What's new in Windows 10 for Developers</a></li>
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </li>
+</ul>
                         
 ---
 
