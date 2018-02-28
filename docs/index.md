@@ -148,7 +148,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   <div class="container">
       <ul class="cardsY panelContent featuredContent">
           <li>
-              <a href="https://developer.microsoft.com/windows/downloads/virtual-machines">
+              <a href="//mva.microsoft.com/training-topics/c-app-development">
                   <div class="cardSize">
                       <div class="cardPadding">
                           <div class="card">
@@ -158,7 +158,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                                   </div>
                               </div>
                               <div class="cardText">
-                                  <h3>Try Windows 10 on virtual machines</h3>
+                                  <h3>New to development?</h3>
                               </div>
                           </div>
                       </div>
@@ -166,7 +166,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
               </a>
           </li>
           <li>
-              <a href="https://insider.windows.com/">
+              <a href="//developer.microsoft.com/windows/bridges">
                   <div class="cardSize">
                       <div class="cardPadding">
                           <div class="card">
@@ -176,7 +176,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                                   </div>
                               </div>
                               <div class="cardText">
-                                  <h3>Join the Insider Program</h3>
+                                  <h3>Bring your app to Windows</h3>
                               </div>
                           </div>
                       </div>
@@ -184,7 +184,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
               </a>
           </li>
           <li>
-              <a href="https://mva.microsoft.com/">
+              <a href="//docs.microsoft.com/uwp/">
                   <div class="cardSize">
                       <div class="cardPadding">
                           <div class="card">
@@ -194,7 +194,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                                   </div>
                               </div>
                               <div class="cardText">
-                                  <h3>Explore Microsoft Virtual Academy</h3>
+                                  <h3>API Reference</h3>
                               </div>
                           </div>
                       </div>
@@ -206,7 +206,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
 
 ---
 
-<h2>Reference</h2>
+<h2>More resources</h2>
 
 <ul class="panelContent cardsW">
     <li>
