@@ -14,8 +14,7 @@ keywords: Get-started UWP, windows app development, make a windows app
  
 Build apps that work on all Windows 10 devices, or enhance your existing apps with new and updated features.  
 <br>
-<!-- <ul class="cardsA panelContent" id="cardtypes-A" style="display: flex; margin-top: 0px;"> -->
-<ul class="cardsC panelContent" id="cardtypes-C" style="margin-top: -80px; display: flex;">
+<ul class="cardsC panelContent" id="cardtypes-C" style="display: flex;">
    <li>
     <div class="cardSize">
         <div class="cardPadding">
@@ -79,24 +78,24 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   </li>
 </ul>  
 
-<ul class="panelContent cardsFTitle">
+---
+
+<ul class="panelContent cardsF">
   <li>
     <div class="cardSize">
         <div class="cardPadding">
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage">
-                        <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
+                        <img src="icon_GetStarted.png" alt="Get started icon"/>
                     </div>
                 </div>
                 <div class="cardText">
                     <h3>Tutorials</h3>
                     <p>Looking for a guided learning experience? These tutorials will help.</p>
-                  <ul>
-                    <li><a href="https://..">UI Basics</a></li>
-                    <li><a href="https://..">Data binding</a></li>
-                    <li><a href="https://..">Custom styles</a></li>
-                  </ul>
+                    <p><a href="..">UI Basics<</a></p>
+                    <p><a href="..">Data binding<</a></p>
+                    <p><a href="..">Custom styles<</a></p>
                 </div>
             </div>
         </div>
@@ -108,18 +107,16 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage">
-                        <img src="/media/common/i_code-samples.svg" alt="Samples Icon" />
+                        <img src="icon_GetStarted.png" alt="Get started icon"/>
                     </div>
                 </div>
                 <div class="cardText">
                     <h3>Samples</h3>
                     <p>Get firsthand experience with the Windows 10 platform and see APIs in action.</p>
-                  <ul>
-                    <li><a href="https://..">Using UWP app samples</a></li>
-                    <li><a href="https://..">Customer Orders Database</a></li>
-                    <li><a href="https://..">Quiz Game (Project Rome)</a></li>
-                    <li><a href="https://..">Windows code samples portal</a></li>
-                  </ul>
+                    <p><a href="https://..">Using UWP app samples</a></p>
+                    <p><a href="https://..">Customer Orders Database</a></p>
+                    <p><a href="https://..">Quiz Game (Project Rome)</a></p>
+                    <p><a href="https://..">Windows code samples portal</a></p>
                 </div>
             </div>
         </div>
@@ -131,16 +128,14 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage">
-                        <img src="/media/common/i_whats-new.svg" alt="Whats New Icon" />
+                        <img src="icon_GetStarted.png" alt="Get started icon"/>
                     </div>
                 </div>
                 <div class="cardText">
                     <h3>What's new</h3>
                     <p>Expand your horizons and explore the latest additions to Windows 10.</p>
-                  <ul>
-                    <li><a href="https://..">What's cool in the latest version of Windows 10</a></li>
-                    <li><a href="https://..">What's new in Windows 10 for Developers</a></li>
-                  </ul>
+                    <p><a href="https://..">What's cool in the latest version of Windows 10</a></p>
+                    <p><a href="https://..">What's new in Windows 10 for Developers</a></p>
                 </div>
             </div>
         </div>
@@ -148,106 +143,6 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   </li>
 </ul>
                         
----
-
-<h2> Explore related docs</h2>
-  <ul class="panelContent cardsFTitle">
-   <li>
-        <a href="https://docs.microsoft.com/dotnet/csharp/index">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/logos/logo_Csharp.svg" alt="C# logo" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>C# Guide</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="//docs.microsoft.com/visualstudio/ide/">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/logos/logo_visual-studio.svg" alt="Visual Studio Logo" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Visual Studio</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-  </ul>
-  
-<h2> Developer Tools</h2>
-  <ul class="panelContent cardsFTitle">
-    <li>
-        <a href="//docs.microsoft.com/en-us/windows/wsl/install-win10">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/logos/logo_linux-color.svg" alt="Linux Logo" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Bash on Ubuntu on Windows (Windows Subsystem for Linux)</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="https://..">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_multi-connect.svg" alt="Multi connect icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Learn more about ARM on Windows 10</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="https://..">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_benefits.svg" alt="Partner Signup icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Placeholder</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-  </ul>
-  
 ---
 
   <div class="container">
