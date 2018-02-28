@@ -62,7 +62,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage bgdAccent1">
-                        <img data-scaleimage="/media/illustrations/biztalk-host-integration-install-configure.svg" alt="Setup illustration" />
+                        <img data-scaleimage="/media/illustrations/team-services-dev-ops-test.svg" alt="Code illustration" />
                     </div>
                 </div>
                 <div class="cardText">
