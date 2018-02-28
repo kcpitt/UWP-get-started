@@ -87,15 +87,15 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage">
-                        <img src="icon_GetStarted.png" alt="Get started icon"/>
+                        <img src="/media/common/i_tasks.svg" alt="Tutorials icon"/>
                     </div>
                 </div>
                 <div class="cardText">
                     <h3>Tutorials</h3>
                     <p>Looking for a guided learning experience? These tutorials will help.</p>
-                    <p><a href="..">UI Basics<</a></p>
-                    <p><a href="..">Data binding<</a></p>
-                    <p><a href="..">Custom styles<</a></p>
+                    <p><a href="..">UI Basics</a></p>
+                    <p><a href="..">Data binding</a></p>
+                    <p><a href="..">Custom styles</a></p>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage">
-                        <img src="icon_GetStarted.png" alt="Get started icon"/>
+                        <img src="/media/common/i_code-samples.svg" alt="Samples icon"/>
                     </div>
                 </div>
                 <div class="cardText">
@@ -128,7 +128,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage">
-                        <img src="icon_GetStarted.png" alt="Get started icon"/>
+                        <img src="/media/common/i_whats-new.svg" alt="Whats New icon"/>
                     </div>
                 </div>
                 <div class="cardText">
@@ -214,14 +214,9 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Resources</h3>
-                        <p><a href="https://../">REference Placeholder</a></p>
-                        <p><a href="https://../">Placeholder</a></p>
-                        <p><a href="http://..">FAQs</a></p>
-                        <p><a href="https://../">Placeholder</a></p>
-                        <p><a href="http://..">Placeholder</a></p>
-                        <p><a href="https://../">Placeholder</a></p>
-                        <p><a href="https://..">placeholder</a></p>
+                        <h3>New to development?</h3>
+                        <p><a href="//mva.microsoft.com/training-topics/c-app-development">Microsoft Virtual Academy</a></p>
+                        <p><a href="//www.linkedin.com/learning/learning-universal-windows-app-development/welcome">LinkedIn Learning</a></p>
                         </div>
                     </div>
                 </div>
@@ -232,10 +227,22 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Support</h3>
-                        <p><a href="https://..">Help Placeholder</a></p>
-                        <p><a href="https://..">Support and Troubleshooting Placeholder</a></p>
-                        <p><a href="http://..">Placeholder Forum</a></p>
+                        <h3>Explore related docs</h3>
+                        <p><a href="//docs.microsoft.com/dotnet/csharp/index">C# Guide</a></p>
+                        <p><a href="//docs.microsoft.com/visualstudio/ide/">Visual Studio</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Developer tools</h3>
+                        <p><a href="..">Bash on Ubuntu on Windows</a></p>
+                        <p><a href="//developer.microsoft.com/windows/downloads/virtual-machines">Virtual machines</a></p>
                     </div>
                 </div>
             </div>
