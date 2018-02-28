@@ -90,8 +90,8 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                 </div>
                 <div class="cardText">
                     <h3>Tutorials</h3>
-                    <br>
                     <p>Looking for a guided learning experience? These tutorials will help.</p>
+                    <br>
                     <p><a href="..">UI Basics</a></p>
                     <p><a href="..">Data binding</a></p>
                     <p><a href="..">Custom styles</a></p>
@@ -111,8 +111,8 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                 </div>
                 <div class="cardText">
                     <h3>Samples</h3>
-                    <br>
                     <p>Get firsthand experience with the Windows 10 platform and see APIs in action.</p>
+                    <br>
                     <p><a href="https://..">Using UWP app samples</a></p>
                     <p><a href="https://..">Customer Orders Database</a></p>
                     <p><a href="https://..">Quiz Game (Project Rome)</a></p>
@@ -133,8 +133,8 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                 </div>
                 <div class="cardText">
                     <h3>What's new</h3>
-                    <br>
                     <p>Expand your horizons and explore the latest additions to Windows 10.</p>
+                    <br>
                     <p><a href="https://..">What's cool in the latest version of Windows 10</a></p>
                     <p><a href="https://..">What's new in Windows 10 for Developers</a></p>
                 </div>
