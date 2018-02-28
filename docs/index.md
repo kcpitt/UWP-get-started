@@ -14,7 +14,8 @@ keywords: Get-started UWP, windows app development, make a windows app
  
 Build apps that work on all Windows 10 devices, or enhance your existing apps with new and updated features.  
 <br>
-<ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
+<!-- <ul class="cardsA panelContent" id="cardtypes-A" style="display: flex; margin-top: 0px;"> -->
+<ul class="cardsC panelContent" id="cardtypes-C" style="margin-top: -80px; display: flex;">
    <li>
     <div class="cardSize">
         <div class="cardPadding">
