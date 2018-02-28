@@ -78,8 +78,6 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   </li>
 </ul>  
 
----
-
 <ul class="panelContent cardsF">
   <li>
     <div class="cardSize">
@@ -142,71 +140,67 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
     </div>
   </li>
 </ul>
-                        
----
 
-  <div class="container">
-      <ul class="cardsY panelContent featuredContent">
-          <li>
-              <a href="//mva.microsoft.com/training-topics/c-app-development">
-                  <div class="cardSize">
-                      <div class="cardPadding">
-                          <div class="card">
-                              <div class="cardImageOuter">
-                                  <div class="cardImage">
-                                      <img data-hoverimage="/media/hubs/windows/win_try-windows.svg" src="/media/hubs/windows/win_try-windows.png" alt="" />
-                                  </div>
-                              </div>
-                              <div class="cardText">
-                                  <h3>New to development?</h3>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </a>
-          </li>
-          <li>
-              <a href="//developer.microsoft.com/windows/bridges">
-                  <div class="cardSize">
-                      <div class="cardPadding">
-                          <div class="card">
-                              <div class="cardImageOuter">
-                                  <div class="cardImage">
-                                      <img data-hoverimage="/media/hubs/windows/win_insider.svg" src="/media/hubs/windows/win_insider.png" alt="" />
-                                  </div>
-                              </div>
-                              <div class="cardText">
-                                  <h3>Bring your app to Windows</h3>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </a>
-          </li>
-          <li>
-              <a href="//docs.microsoft.com/uwp/">
-                  <div class="cardSize">
-                      <div class="cardPadding">
-                          <div class="card">
-                              <div class="cardImageOuter">
-                                  <div class="cardImage">
-                                      <img data-hoverimage="/media/hubs/windows/win_academy.svg" src="/media/hubs/windows/win_academy.png" alt="" />
-                                  </div>
-                              </div>
-                              <div class="cardText">
-                                  <h3>API Reference</h3>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </a>
-          </li>
-      </ul>
-  </div>
+<div class="container">
+    <ul class="cardsY panelContent featuredContent">
+        <li>
+            <a href="//mva.microsoft.com/training-topics/c-app-development">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="/media/common/i_web.svg" src="/media/common/i_web-color.svg" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>New to development?</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="//developer.microsoft.com/windows/bridges">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="/media/hubs/windows/win_try-windows.svg" src="/media/hubs/windows/win_try-windows.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Bring your app to Windows</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="//docs.microsoft.com/uwp/">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="/media/common/i_api.svg" src="/media/common/i_api-reference.svg" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>API Reference</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+    </ul>
+</div>
 
 ---
-
-<h2>More resources</h2>
 
 <ul class="panelContent cardsW">
     <li>
