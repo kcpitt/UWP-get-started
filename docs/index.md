@@ -69,7 +69,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                         <h3>Start coding</h3>
                         <p>Whether you’re an experienced dev or just building your first app, get hands-on experience with the Windows 10 platform and docs.</p>
                         <ul>
-                            <li><a href="//docs.microsoft.com/en-us/windows/uwp/get-started/create-uwp-apps">Create apps for Windows (tutorials)</a></li>
+                            <li><a href="//docs.microsoft.com/en-us/windows/uwp/get-started/create-uwp-apps">Create apps for Windows</a></li>
                         </ul>
                     </div>
                 </div>
@@ -144,89 +144,83 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   </li>
 </ul>
 
-<ul id="cardtypes-L" class="cardsL panelContent">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3 class="x-hidden-focus">Developer tools</h3>
-                        <div class="ico48Link">
-                            <a href="//docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/">
-                                <img src="/media/common/i_management.svg" alt="" data-linktype="external">
-                                <span>UWP Community Toolkit</span>
-                            </a>
-                        </div>
-                        <div class="ico48Link">
-                            <a href="//developer.microsoft.com/windows/downloads/virtual-machines" data-linktype="external">
-                                <img src="/media/common/i_vmm-cloud.svg" alt="">
-                                <span>Virtual Machines</span>
-                            </a>
-                        </div>
-                        <div class="ico48Link">
-                            <a href="https://docs.microsoft.com/en-us/windows/wsl/about" data-linktype="external">
-                                <img src="/media/logos/logo_linux-color.svg" alt="" data-linktype="external">
-                                <span>Bash on Ubuntu on Windows</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
 
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3 class="x-hidden-focus">API Reference</h3>
-                        <div class="ico48Link">
-                            <a href="//docs.microsoft.com/en-us/uwp/" data-linktype="external">
-                                <img src="/media/common/i_api-reference.svg" alt="">
-                                <span>API ref for UWP apps</span>
-                            </a>
-                        </div>
-                        <div class="ico48Link">
-                            <a href="//docs.microsoft.com/en-us/uwp/win32-and-com/win32-and-com-for-uwp-apps" data-linktype="external">
-                                <img src="/media/logos/logo_win32-com.svg" alt="">
-                                <span>Win32 and COM APIs</span>
-                            </a>
+<div class="container">
+    <ul class="cardsY panelContent featuredContent">
+        <li>
+            <a href="//developer.microsoft.com/windows/apps/design">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="/media/common/i_web.svg" src="/media/common/i_web-color.svg" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Design and UI</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3 class="x-hidden-focus">Store</h3>
-                        <div class="ico48Link">
-                            <a href="//developer.microsoft.com/en-us/windows/bridges/desktop" data-linktype="external">
-                                <img src="/media/common/i_code-quality.svg" alt="" data-linktype="external">
-                                <span>Bring existing apps to the Store</span>
-                            </a>
-                        </div>
-                        <div class="ico48Link">
-                            <a href="//docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app" data-linktype="external">
-                                <img src="/media/common/i_billing.svg" alt="" data-linktype="external">
-                                <span>Microsoft Advertising SDK</span>
-                            </a>
+            </a>
+        </li>
+        <li>
+            <a href="//docs.microsoft.com/uwp/">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="/media/common/i_api.svg" src="/media/common/i_api-reference.svg" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>API Reference</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </li>
-</ul>
+            </a>
+        </li>
+        <li>
+            <a href="//developer.microsoft.com/windows/bridges">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="/media/hubs/windows/win_try-windows.svg" src="/media/hubs/windows/win_try-windows.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Bring your app to Windows</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+    </ul>
+</div>
 
 ---
 
 <ul class="panelContent cardsW">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Developer tools</h3>
+                        <p><a href="//docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/">UWP Community Toolkit</a></p>
+                        <p><a href="//developer.microsoft.com/windows/downloads/virtual-machines">Virtual Machines</a></p>
+                        <p><a href="//docs.microsoft.com/en-us/windows/wsl/about">Bash on Ubunutu on Windows</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </li>
     <li>
         <div class="cardSize">
             <div class="cardPadding">
