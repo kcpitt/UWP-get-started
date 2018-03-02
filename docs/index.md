@@ -7,7 +7,7 @@ ms.author: mattwoj
 ms.date: 02/16/2018
 ms.prod: windows
 ms.topic: article
-keywords: Get started UWP, windows app development, make a windows app, how-to uwp
+keywords: Get-started UWP, windows app development, make a windows app
 ---
 
 ## Get Started with Windows 10 apps 
@@ -267,8 +267,8 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Bring your existing apps and games to the Microsoft Store</h3>
-                        <p><a href="//developer.microsoft.com/en-us/windows/bridges/desktop">Desktop Bridge</a></p>
+                        <h3>Desktop Bridge</h3>
+                        <p><a href="//developer.microsoft.com/en-us/windows/bridges/desktop">Bring your existing apps and games to the Microsoft Store</a></p>
                         <p><a href="//docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app">Microsoft Advertising SDK</a></p>
                     </div>
                 </div>
