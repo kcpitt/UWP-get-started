@@ -66,11 +66,10 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Get set up</h3>
-                        <p>Visual Studio Community and the Windows 10 SDK give you everything you need to build great apps – and they’re free!</p>
+                        <h3>Start coding</h3>
+                        <p>Whether you’re an experienced dev or just building your first app, get hands-on experience with the Windows 10 platform and docs.</p>
                         <ul>
-                            <li><a href="https://developer.microsoft.com/windows/downloads">Download the tools and SDK</a></li>
-                            <li><a href="//docs.microsoft.com/windows/uwp/get-started/get-set-up">Need a hand?</a></li>
+                            <li><a href="//docs.microsoft.com/en-us/windows/uwp/get-started/create-uwp-apps">Create apps for Windows (tutorials)</a></li>
                         </ul>
                     </div>
                 </div>
@@ -243,32 +242,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                             </div>
                             <div class="cardText">
                                 <h3>Bring your app to Windows</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="//docs.microsoft.com/uwp/">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img data-hoverimage="/media/common/i_api.svg" src="/media/common/i_api-reference.svg" alt="" />
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>API Reference</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </li>
-    </ul>
-</div>
+ 
 
 ---
 
@@ -307,6 +281,31 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                         <h3>Developer tools</h3>
                         <p><a href="..">Bash on Ubuntu on Windows</a></p>
                         <p><a href="//developer.microsoft.com/windows/downloads/virtual-machines">Virtual machines</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+        <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>API Reference</h3>
+                        <p><a href="//docs.microsoft.com/en-us/uwp/">API ref for UWP apps</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+        <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Bring your existing apps and games to the Microsoft Store</h3>
+                        <p><a href="//developer.microsoft.com/en-us/windows/bridges/desktop">Desktop Bridge</a></p>
+                        <p><a href="//docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app">Microsoft Advertising SDK</a></p>
                     </div>
                 </div>
             </div>
