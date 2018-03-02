@@ -210,6 +210,82 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
   </li>
 </ul>
 
+<ul id="cardtypes-L" class="cardsL panelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3 class="x-hidden-focus">API Reference</h3>
+                        <div class="ico48Link">
+                            <a href="//docs.microsoft.com/en-us/uwp/" data-linktype="external">
+                                <img src="/media/common/i_api-reference.svg" alt="">
+                                <span>API ref for UWP apps</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3 class="x-hidden-focus">Developer tools</h3>
+                        <div class="ico48Link">
+                            <a href="//docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/">
+                                <img src="/media/common/i_management.svg" alt="" data-linktype="external">
+                                <span>UWP Community Toolkit</span>
+                            </a>
+                        </div>
+                        <div class="ico48Link">
+                            <a href="//developer.microsoft.com/windows/downloads/virtual-machines" data-linktype="external">
+                                <img src="/media/common/i_vmm-cloud.svg" alt="">
+                                <span>Virtual Machines</span>
+                            </a>
+                        </div>
+                        <div class="ico48Link">
+                            <a href="https://docs.microsoft.com/en-us/windows/wsl/about" data-linktype="external">
+                                <img src="/media/logos/logo_linux-color.svg" alt="" data-linktype="external">
+                                <span>Bash on Ubuntu on Windows</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3 class="x-hidden-focus">Bring your apps to Windows</h3>
+                        <div class="ico48Link">
+                            <a href="//developer.microsoft.com/en-us/windows/bridges/desktop" data-linktype="external">
+                                <img src="/media/common/i_code-quality.svg" alt="" data-linktype="external">
+                                <span>Bring your existing apps and games to Windows Store with Desktop Bridge</span>
+                            </a>
+                        </div>
+                        <div class="ico48Link">
+                            <a href="//docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app" data-linktype="external">
+                                <img src="/media/common/i_billing.svg" alt="" data-linktype="external">
+                                <span>Microsoft Advertising SDK</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+
+---
+
 <ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
@@ -232,44 +308,6 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                         <h3>Explore related docs</h3>
                         <p><a href="//docs.microsoft.com/dotnet/csharp/index">C# Guide</a></p>
                         <p><a href="//docs.microsoft.com/visualstudio/ide/">Visual Studio</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Developer tools</h3>
-                        <p><a href="..">Bash on Ubuntu on Windows</a></p>
-                        <p><a href="//developer.microsoft.com/windows/downloads/virtual-machines">Virtual machines</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-        <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>API Reference</h3>
-                        <p><a href="//docs.microsoft.com/en-us/uwp/">API ref for UWP apps</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-        <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Bring your app to Windows</h3>
-                        <p><a href="//developer.microsoft.com/en-us/windows/bridges/desktop">Bring your existing apps and games to the Microsoft Store with the Desktop Bridge</a></p>
-                        <p><a href="//docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app">Microsoft Advertising SDK</a></p>
                     </div>
                 </div>
             </div>
