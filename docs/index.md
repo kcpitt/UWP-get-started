@@ -7,7 +7,7 @@ ms.author: mattwoj
 ms.date: 02/16/2018
 ms.prod: windows
 ms.topic: article
-keywords: Get-started UWP, windows app development, make a windows app
+keywords: Get started UWP, windows app development, make a windows app, how-to uwp
 ---
 
 ## Get Started with Windows 10 apps 
@@ -62,7 +62,7 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img src="https://docs.microsoft.com/media/hubs/dotnet/net-docs-web-1.svg" alt="" data-linktype="external" class="x-hidden-focus">
+                            <img src="/media/illustrations/team-services-dev-ops-test.svg" alt="Code illustration" data-linktype="external" class="x-hidden-focus">
                         </div>
                     </div>
                     <div class="cardText">
