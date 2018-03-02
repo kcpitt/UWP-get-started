@@ -267,8 +267,8 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Desktop Bridge</h3>
-                        <p><a href="//developer.microsoft.com/en-us/windows/bridges/desktop">Bring your existing apps and games to the Microsoft Store</a></p>
+                        <h3>Bring your app to Windows</h3>
+                        <p><a href="//developer.microsoft.com/en-us/windows/bridges/desktop">Bring your existing apps and games to the Microsoft Store with the Desktop Bridge</a></p>
                         <p><a href="//docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app">Microsoft Advertising SDK</a></p>
                     </div>
                 </div>
