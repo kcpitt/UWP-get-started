@@ -158,9 +158,9 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                     <h3>Tutorials</h3>
                     <p>Looking for a guided learning experience? These tutorials will help.</p>
                     <br>
-                    <p><a href="..">UI Basics</a></p>
-                    <p><a href="..">Data binding</a></p>
-                    <p><a href="..">Custom styles</a></p>
+                    <p><a href="//docs.microsoft.com/windows/uwp/design/basics/xaml-basics-ui">UI Basics</a></p>
+                    <p><a href="//docs.microsoft.com/windows/uwp/data-binding/xaml-basics-data-binding">Data binding</a></p>
+                    <p><a href="//docs.microsoft.com/windows/uwp/design/controls-and-patterns/xaml-basics-style">Custom styles</a></p>
                 </div>
             </div>
         </div>
@@ -179,10 +179,10 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                     <h3>Samples</h3>
                     <p>Get firsthand experience with the Windows 10 platform and see APIs in action.</p>
                     <br>
-                    <p><a href="https://..">Using UWP app samples</a></p>
-                    <p><a href="https://..">Customer Orders Database</a></p>
-                    <p><a href="https://..">Quiz Game (Project Rome)</a></p>
-                    <p><a href="https://..">Windows code samples portal</a></p>
+                    <p><a href="//docs.microsoft.com/windows/uwp/get-started/get-uwp-app-samples">Using UWP app samples</a></p>
+                    <p><a href="//github.com/Microsoft/Windows-appsample-customers-orders-database">Customer Orders Database</a></p>
+                    <p><a href="//github.com/Microsoft/Windows-appsample-remote-system-sessions">Quiz Game (Project Rome)</a></p>
+                    <p><a href="//developer.microsoft.com/windows/samples">Windows code samples portal</a></p>
                 </div>
             </div>
         </div>
@@ -201,50 +201,14 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
                     <h3>What's new</h3>
                     <p>Expand your horizons and explore the latest additions to Windows 10.</p>
                     <br>
-                    <p><a href="https://..">What's cool in the latest version of Windows 10</a></p>
-                    <p><a href="https://..">What's new in Windows 10 for Developers</a></p>
+                    <p><a href="//developer.microsoft.com/windows/windows-10-for-developers">What's cool in the latest version of Windows 10</a></p>
+                    <p><a href="//docs.microsoft.com/windows/uwp/whats-new/windows-10-version-latest">What's new in Windows 10 for Developers</a></p>
                 </div>
             </div>
         </div>
     </div>
   </li>
 </ul>
-
-<div class="container">
-    <ul class="cardsY panelContent featuredContent">
-        <li>
-            <a href="//mva.microsoft.com/training-topics/c-app-development">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img data-hoverimage="/media/common/i_web.svg" src="/media/common/i_web-color.svg" alt="" />
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>New to development?</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="//developer.microsoft.com/windows/bridges">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img data-hoverimage="/media/hubs/windows/win_try-windows.svg" src="/media/hubs/windows/win_try-windows.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Bring your app to Windows</h3>
- 
-
----
 
 <ul class="panelContent cardsW">
     <li>
