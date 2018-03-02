@@ -216,24 +216,6 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3 class="x-hidden-focus">API Reference</h3>
-                        <div class="ico48Link">
-                            <a href="//docs.microsoft.com/en-us/uwp/" data-linktype="external">
-                                <img src="/media/common/i_api-reference.svg" alt="">
-                                <span>API ref for UWP apps</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
                         <h3 class="x-hidden-focus">Developer tools</h3>
                         <div class="ico48Link">
                             <a href="//docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/">
@@ -264,11 +246,35 @@ Build apps that work on all Windows 10 devices, or enhance your existing apps wi
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3 class="x-hidden-focus">Bring your apps to Windows</h3>
+                        <h3 class="x-hidden-focus">API Reference</h3>
+                        <div class="ico48Link">
+                            <a href="//docs.microsoft.com/en-us/uwp/" data-linktype="external">
+                                <img src="/media/common/i_api-reference.svg" alt="">
+                                <span>API ref for UWP apps</span>
+                            </a>
+                        </div>
+                        <div class="ico48Link">
+                            <a href="//docs.microsoft.com/en-us/uwp/win32-and-com/win32-and-com-for-uwp-apps" data-linktype="external">
+                                <img src="/media/logos/logo_win32-com.svg" alt="">
+                                <span>Win32 and COM APIs</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3 class="x-hidden-focus">Store</h3>
                         <div class="ico48Link">
                             <a href="//developer.microsoft.com/en-us/windows/bridges/desktop" data-linktype="external">
                                 <img src="/media/common/i_code-quality.svg" alt="" data-linktype="external">
-                                <span>Bring your existing apps and games to Windows Store with Desktop Bridge</span>
+                                <span>Bring existing apps to the Store</span>
                             </a>
                         </div>
                         <div class="ico48Link">
